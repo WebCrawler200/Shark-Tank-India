@@ -7,7 +7,7 @@ This project presents an **in-depth analysis** of the *Shark Tank India* startup
 The aim was to understand **industry distributions, funding patterns, investment behavior of sharks, startup revenues**, and test hypotheses regarding **funded vs bootstrapped startups**.
 
 ### 📂 Dataset Source
-
+VIEW HERE:-[`https://webcrawler200.github.io/Shark-Tank-India/index.html`](https://webcrawler200.github.io/Shark-Tank-India/index.html)
 Dataset: [`Shark Tank India` by thirumani](https://www.kaggle.com/datasets/thirumani/shark-tank-india)
 
 ---
